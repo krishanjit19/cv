@@ -1,0 +1,46 @@
+body{
+  background: rgb(63,94,251);
+  background: linear-gradient(201deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+
+h1{
+  color: ##E6E6FA;
+text-align: center;
+font-family: "Lucida Console", monospace;
+}
+#First{
+  color: #E6E6FA;
+  font-family: "Courier New", monospace;
+  text-align: center;
+
+
+}
+h2{
+  color: #E6E6FA;
+  font-family: "Courier New", monospace;
+  text-align: center;
+  font-size: 10px;
+}
+#front{
+  color: inherit;
+  font-family: Marker Felt;
+  text-align: center;
+  font-size: 100px;
+  color: #DCDCDC;
+
+}
+#middle{
+  color: inherit;
+  font-family: "Lucida Console", monospace;
+  text-align: center;
+  font-size: 20px;
+  color: #FFF5EE;
+
+}
+
+footer{
+  color: #FFFAFA;
+  text-align: center;
+  font-family: "Lucida Console", monospace;
+}
